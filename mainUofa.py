@@ -33,15 +33,15 @@ while pageNumber < (pages + 1):
     for n in items:
         if (n != "\n"):
             name = n.find('a')  # finding the area with the product names
-            # name = nameBig.find('a')  # finding the actual names
+            # category_sing = nameBig.find('a')  # finding the actual names
             description = n.find('p')
             nmcredits = n.find('b')
             r = name
             if r is not None:
-                r = r.text  # [str(i.string) for str(i) in name]
+                r = r.text  # [str(i.string) for str(i) in category_sing]
             s = description
             if s is not None:
-                s = s.text  # [str(p.string) for str(p) in description]
+                s = s.text  # [str(p.string) for str(p) in price_sing]
             c = nmcredits
             if c is not None:
                 c = c.text
