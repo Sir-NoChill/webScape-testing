@@ -1,0 +1,1161 @@
+1612973765976	geckodriver	INFO	Listening on 127.0.0.1:52344
+1612973819227	geckodriver	INFO	Listening on 127.0.0.1:52356
+1612973822290	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileu2qnHo"
+1612974551505	geckodriver	INFO	Listening on 127.0.0.1:52644
+1612974789022	geckodriver	INFO	Listening on 127.0.0.1:52749
+1612974880358	geckodriver	INFO	Listening on 127.0.0.1:52787
+1612974898698	geckodriver	INFO	Listening on 127.0.0.1:52793
+1612974901704	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileePn9jq"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612974903052	Marionette	INFO	Listening on port 52802
+1612974903256	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612974903266	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.loyalty.shoppersdrugmart.ca/static/akamai/s_tag.js?v=637485537009815462, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.loyalty.shoppersdrugmart.ca/static/akamai/s_tag.js?v=637485537009815462, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.loyalty.shoppersdrugmart.ca/static/akamai/s_tag.js?v=637485537009815462, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.loyalty.shoppersdrugmart.ca/static/akamai/s_tag.js?v=637485537009815462, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Exiting due to channel error.
+Listening on 127.0.0.1:53024
+1612975063615	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileEjGMJl"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612975064976	Marionette	INFO	Listening on port 53033
+1612975065167	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612975065178	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.loyalty.shoppersdrugmart.ca/static/akamai/s_tag.js?v=637485538632913708, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.loyalty.shoppersdrugmart.ca/static/akamai/s_tag.js?v=637485538632913708, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.loyalty.shoppersdrugmart.ca/static/akamai/s_tag.js?v=637485538632913708, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.loyalty.shoppersdrugmart.ca/static/akamai/s_tag.js?v=637485538632913708, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Exiting due to channel error.
+Exiting due to channel error.
+12975207000	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofile8pBnRX"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612975208401	Marionette	INFO	Listening on port 53231
+1612975208557	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612975208567	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript warning: https://www.loyalty.shoppersdrugmart.ca/static/akamai/s_tag.js?v=637485540063490274, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.loyalty.shoppersdrugmart.ca/static/akamai/s_tag.js?v=637485540063490274, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.loyalty.shoppersdrugmart.ca/static/akamai/s_tag.js?v=637485540063490274, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.loyalty.shoppersdrugmart.ca/static/akamai/s_tag.js?v=637485540063490274, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+Exiting due to channel error.
+Exiting due to channel error.
+12978641716	geckodriver	INFO	Listening on 127.0.0.1:55280
+1612978644723	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileYaoxmX"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612978646217	Marionette	INFO	Listening on port 55289
+1612978646272	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612978646280	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript warning: https://www.loyalty.shoppersdrugmart.ca/static/akamai/s_tag.js?v=637485574439083799, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.loyalty.shoppersdrugmart.ca/static/akamai/s_tag.js?v=637485574439083799, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.loyalty.shoppersdrugmart.ca/static/akamai/s_tag.js?v=637485574439083799, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.loyalty.shoppersdrugmart.ca/static/akamai/s_tag.js?v=637485574439083799, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Exiting due to channel error.
+Exiting due to channel error.
+12979173361	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileGJvM3i"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612979174764	Marionette	INFO	Listening on port 55825
+1612979174919	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612979174939	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.loyalty.shoppersdrugmart.ca/static/akamai/s_tag.js?v=637485579731199096, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.loyalty.shoppersdrugmart.ca/static/akamai/s_tag.js?v=637485579731199096, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.loyalty.shoppersdrugmart.ca/static/akamai/s_tag.js?v=637485579731199096, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.loyalty.shoppersdrugmart.ca/static/akamai/s_tag.js?v=637485579731199096, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1612979292302	geckodriver	INFO	Listening on 127.0.0.1:56375
+1612979295356	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileIbdRGZ"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612979297711	Marionette	INFO	Listening on port 56426
+1612979298059	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612979298074	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.loyalty.shoppersdrugmart.ca/static/akamai/s_tag.js?v=637485580956558464, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.loyalty.shoppersdrugmart.ca/static/akamai/s_tag.js?v=637485580956558464, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.loyalty.shoppersdrugmart.ca/static/akamai/s_tag.js?v=637485580956558464, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.loyalty.shoppersdrugmart.ca/static/akamai/s_tag.js?v=637485580956558464, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+Exiting due to channel error.
+Exiting due to channel error.
+12979359669	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileJZDEse"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612979361079	Marionette	INFO	Listening on port 56667
+1612979361218	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612979361228	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript warning: https://www.loyalty.shoppersdrugmart.ca/static/akamai/s_tag.js?v=637485581586558221, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.loyalty.shoppersdrugmart.ca/static/akamai/s_tag.js?v=637485581586558221, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.loyalty.shoppersdrugmart.ca/static/akamai/s_tag.js?v=637485581586558221, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.loyalty.shoppersdrugmart.ca/static/akamai/s_tag.js?v=637485581586558221, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Exiting due to channel error.
+Exiting due to channel error.
+12984653347	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilevjkfCz"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612984655442	Marionette	INFO	Listening on port 58925
+1612984655544	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612984655559	Marionette	ERROR	[15] No reply from Marionette:Register
+Exiting due to channel error.
+Exiting due to channel error.
+12985359650	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileUt3956"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612985361346	Marionette	INFO	Listening on port 59197
+1612985361725	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612985361739	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Exiting due to channel error.
+Exiting due to channel error.
+12986403940	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileWfkMr5"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612986405790	Marionette	INFO	Listening on port 59627
+1612986406009	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612986406024	Marionette	ERROR	[15] No reply from Marionette:Register
+Exiting due to channel error.
+Listening on 127.0.0.1:59741
+1612986450812	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileK8aur6"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612986452384	Marionette	INFO	Listening on port 59749
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612986452889	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612986452901	Marionette	ERROR	[15] No reply from Marionette:Register
+Exiting due to channel error.
+1612987478687	geckodriver	INFO	Listening on 127.0.0.1:50198
+1612987481732	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileFcel4q"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612987483536	Marionette	INFO	Listening on port 50206
+1612987483767	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612987483779	Marionette	ERROR	[15] No reply from Marionette:Register
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1613017747614	geckodriver	INFO	Listening on 127.0.0.1:53359
+1613017750651	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileEv5FBP"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613017752657	Marionette	INFO	Listening on port 53367
+1613017752711	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613017752723	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Exiting due to channel error.
+Exiting due to channel error.
+13017777835	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileAxzoyk"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613017779312	Marionette	INFO	Listening on port 53453
+1613017779386	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613017779395	Marionette	ERROR	[15] No reply from Marionette:Register
+1613017931864	geckodriver	INFO	Listening on 127.0.0.1:53595
+1613017934911	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileg1Z36T"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613017937671	Marionette	INFO	Listening on port 53603
+1613017938351	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613017938358	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Exiting due to channel error.
+Exiting due to channel error.
+13019248818	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileJmACH3"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613019250407	Marionette	INFO	Listening on port 54151
+1613019250849	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613019250861	Marionette	ERROR	[15] No reply from Marionette:Register
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+NFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileB7AwU3"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613019420901	Marionette	INFO	Listening on port 54320
+1613019420948	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613019420959	Marionette	ERROR	[15] No reply from Marionette:Register
+Exiting due to channel error.
+Listening on 127.0.0.1:54430
+1613019489189	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileUUNsO1"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613019490608	Marionette	INFO	Listening on port 54438
+1613019490737	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613019490754	Marionette	ERROR	[15] No reply from Marionette:Register
+Exiting due to channel error.
+Exiting due to channel error.
+13019727084	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileskamOE"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613019728728	Marionette	INFO	Listening on port 54606
+1613019729119	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613019729130	Marionette	ERROR	[15] No reply from Marionette:Register
+Exiting due to channel error.
+Exiting due to channel error.
+13019754728	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileuWYjfq"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613019756078	Marionette	INFO	Listening on port 54718
+1613019756256	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613019756266	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Exiting due to channel error.
+Exiting due to channel error.
+13021231881	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileSuqwTj"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613021233282	Marionette	INFO	Listening on port 55152
+1613021233410	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613021233421	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Exiting due to channel error.
+1613108346224	geckodriver	INFO	Listening on 127.0.0.1:57410
+1613108349259	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileHyRbnG"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613108350823	Marionette	INFO	Listening on port 57418
+1613108351337	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613108351348	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+1613769051844	geckodriver	INFO	Listening on 127.0.0.1:54030
+1613769054888	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileMlOcAe"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613769056204	Marionette	INFO	Listening on port 54038
+1613769056440	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613769056453	Marionette	ERROR	[18] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofile6PjTdl"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613769156297	Marionette	INFO	Listening on port 54199
+1613769156610	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613769156621	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileIye3WU"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613769437858	geckodriver	INFO	Listening on 127.0.0.1:54362
+1613769440889	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofile3zYfsA"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613769442296	Marionette	INFO	Listening on port 54371
+1613769442426	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613769442438	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileQTLeo3"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613769501369	Marionette	INFO	Listening on port 54493
+1613769501494	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613769501505	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileafe9yV"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613769524933	Marionette	INFO	Listening on port 54606
+1613769525129	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613769525137	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilemq5JyV"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613769649237	Marionette	INFO	Listening on port 54733
+1613769649475	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613769649488	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileOEtdTE"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613769700214	Marionette	INFO	Listening on port 54841
+1613769700393	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613769700405	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilel3uxDB"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613769783840	Marionette	INFO	Listening on port 54967
+1613769783959	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613769783969	Marionette	ERROR	[18] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilexSWXvP"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613769997266	Marionette	INFO	Listening on port 55091
+1613769997542	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613769997552	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileDvqaFH"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613770102062	Marionette	INFO	Listening on port 55224
+1613770102235	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613770102245	Marionette	ERROR	[18] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilerKSfWj"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613770149280	Marionette	INFO	Listening on port 55335
+1613770149559	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613770149579	Marionette	ERROR	[18] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1613770749631	geckodriver	INFO	Listening on 127.0.0.1:55834
+1613770752649	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilez7np1N"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613770753942	Marionette	INFO	Listening on port 55842
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613770754199	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613770754210	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofile9VT4UR"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613770844550	Marionette	INFO	Listening on port 55967
+1613770844782	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613770844790	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileNGmTpn"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613770972461	Marionette	INFO	Listening on port 56110
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613770972675	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613770972689	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilezMzt7z"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613771116076	Marionette	INFO	Listening on port 56238
+1613771116243	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613771116253	Marionette	ERROR	[18] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileIy7hAO"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613771158648	Marionette	INFO	Listening on port 56362
+1613771158730	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613771158741	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilehqefpm"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613771202349	Marionette	INFO	Listening on port 56487
+1613771202385	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613771202392	Marionette	ERROR	[18] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileSY692D"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613771245460	Marionette	INFO	Listening on port 56615
+1613771245629	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613771245648	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileHI9zfM"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613771309713	Marionette	INFO	Listening on port 56755
+1613771309903	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613771309912	Marionette	ERROR	[18] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofile3QYJw6"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613771346084	Marionette	INFO	Listening on port 56860
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613771346312	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613771346322	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilex2hkUp"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613771384171	Marionette	INFO	Listening on port 57000
+1613771384228	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613771384237	Marionette	ERROR	[18] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilepL2eSo"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613771563455	Marionette	INFO	Listening on port 57146
+1613771563779	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613771563789	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofile3ldoFU"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613771594998	Marionette	INFO	Listening on port 57274
+1613771595072	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613771595082	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileAD4KiN"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613771626140	Marionette	INFO	Listening on port 57403
+1613771626282	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613771626295	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileDG4rHh"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613771711671	Marionette	INFO	Listening on port 57563
+1613771712139	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613771712150	Marionette	ERROR	[18] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileEDt02z"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613771777482	Marionette	INFO	Listening on port 57720
+1613771777568	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613771777579	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileYRGbAq"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613772014049	Marionette	INFO	Listening on port 57952
+1613772014080	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613772014088	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1613778487431	geckodriver	INFO	Listening on 127.0.0.1:50149
+1613778490508	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileaxmY3z"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613778491963	Marionette	INFO	Listening on port 50157
+1613778492069	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613778492079	Marionette	ERROR	[15] No reply from Marionette:Register
+1613778494125	Marionette	INFO	Stopped listening on port 50157
+1613778570934	geckodriver	INFO	Listening on 127.0.0.1:50286
+1613778576658	geckodriver	INFO	Listening on 127.0.0.1:50291
+1613778579690	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilekufmtU"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613778580975	Marionette	INFO	Listening on port 50299
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613778581227	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613778581238	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilefN6TEZ"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613778741695	Marionette	INFO	Listening on port 50476
+1613778741792	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613778741801	Marionette	ERROR	[15] No reply from Marionette:Register
+1613778776215	Marionette	INFO	Stopped listening on port 50476
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613780139839	geckodriver	INFO	Listening on 127.0.0.1:50910
+1613780142902	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileUTCxQ3"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613780144295	Marionette	INFO	Listening on port 50918
+1613780144439	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613780144453	Marionette	ERROR	[15] No reply from Marionette:Register
+1613780452745	geckodriver	INFO	Listening on 127.0.0.1:51029
+1613780455817	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileS4BQpK"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613780457108	Marionette	INFO	Listening on port 51037
+1613780457349	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613780457358	Marionette	ERROR	[15] No reply from Marionette:Register
+1613780480347	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1613780516591	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1613780541756	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1613780543701	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1613780569426	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1613780574575	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1613780576360	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1613780648210	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1613780782592	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1613780828140	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1613780858234	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1613780896894	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+13781064606	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofiler1RpQC"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613781065971	Marionette	INFO	Listening on port 52205
+1613781066157	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613781066167	Marionette	ERROR	[15] No reply from Marionette:Register
+1613781110941	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1613781160271	geckodriver	INFO	Listening on 127.0.0.1:52478
+1613781163289	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileRYFHea"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613781164671	Marionette	INFO	Listening on port 52486
+1613781164845	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613781164854	Marionette	ERROR	[15] No reply from Marionette:Register
+1613781178328	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1613781186565	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1613781258609	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1613781552538	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1613781571076	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1613781849987	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1613781982326	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1613782028650	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1613782080996	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1613782160381	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1613782523912	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1613782661902	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1613782831012	Marionette	INFO	Stopped listening on port 52486
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"SessionStore: flushing all windows","state":{"total":1,"current":0},"filename":"resource:///modules/sessionstore/SessionStore.jsm","lineNumber":2271,"stack":["resource:///modules/sessionstore/SessionStore.jsm:ssi_onQuitApplicationGranted:2271","resource:///modules/sessionstore/SessionStore.jsm:ssi_observe:934","chrome://marionette/content/driver.js:GeckoDriver.prototype.quit:3661","chrome://marionette/content/server.js:despatch:297","chrome://marionette/content/server.js:execute:267","chrome://marionette/content/server.js:onPacket/<:240","chrome://marionette/content/server.js:onPacket:241","chrome://marionette/content/transport.js:_onJSONObjectReady/<:504"]}] Barrier: quit-application-granted
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1634416175024	geckodriver	INFO	Listening on 127.0.0.1:64575
+1634416178100	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofile9Jsg1R"
+*** You are running in headless mode.
+1634416178464	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofile9Jsg1R\\search.json.mozlz4", (void 0)))
+1634416179849	Marionette	INFO	Listening on port 64583
+1634416180158	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1634595978047	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileRutMRb\\search.json.mozlz4", (void 0)))
+1634416440049	Marionette	INFO	Listening on port 64734
+1634416440537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1634595978046	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilem6cDKm\\search.json.mozlz4", (void 0)))
+1634416535648	Marionette	INFO	Listening on port 63084
+1634416536060	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1634595978059	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilejXnWxa\\search.json.mozlz4", (void 0)))
+1634416647906	Marionette	INFO	Listening on port 63247
+1634416647994	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1634595978050	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilerjsXZ2\\search.json.mozlz4", (void 0)))
+1634416746861	Marionette	INFO	Listening on port 63379
+1634416747264	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+1634416800466	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634416918855	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1634417008619	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634417042166	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634417162038	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634417180342	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634417201955	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634417205090	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1634417286743	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634417350342	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634417452284	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634417463355	geckodriver	INFO	Listening on 127.0.0.1:62524
+1634417466374	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilelA1uZ0"
+*** You are running in headless mode.
+1634417466709	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilelA1uZ0\\search.json.mozlz4", (void 0)))
+1634417467907	Marionette	INFO	Listening on port 62532
+1634417468425	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+1634417561935	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634417591555	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634417636686	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634417668221	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1634417726950	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634417865080	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1634418039452	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1634418153130	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1634418203457	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634418210339	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634418216151	Marionette	INFO	Stopped listening on port 62532
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 12352, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1634419500819	geckodriver	INFO	Listening on 127.0.0.1:59822
+1634419503895	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileMXT1gd"
+*** You are running in headless mode.
+1634419504259	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileMXT1gd\\search.json.mozlz4", (void 0)))
+1634419505532	Marionette	INFO	Listening on port 59830
+1634419505951	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1634595978005	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilekpwR8Q\\search.json.mozlz4", (void 0)))
+1634419543066	Marionette	INFO	Listening on port 59953
+1634419543224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+1634419550883	Marionette	INFO	Stopped listening on port 59953
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634419742815	geckodriver	INFO	Listening on 127.0.0.1:60118
+1634419745865	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilesyGy7P"
+*** You are running in headless mode.
+1634419746218	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilesyGy7P\\search.json.mozlz4", (void 0)))
+1634419747507	Marionette	INFO	Listening on port 60126
+1634419747935	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+1634419756222	geckodriver	INFO	Listening on 127.0.0.1:60230
+1634419759258	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileZ3IYYA"
+*** You are running in headless mode.
+1634419759551	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileZ3IYYA\\search.json.mozlz4", (void 0)))
+1634419760617	Marionette	INFO	Listening on port 60239
+1634419760813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1634595978038	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilezFcBuP\\search.json.mozlz4", (void 0)))
+1634419783773	Marionette	INFO	Listening on port 60354
+1634419784265	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+1634419791055	Marionette	INFO	Stopped listening on port 60354
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634419836553	geckodriver	INFO	Listening on 127.0.0.1:60473
+1634419839622	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileHFzRGk"
+*** You are running in headless mode.
+1634419839951	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileHFzRGk\\search.json.mozlz4", (void 0)))
+1634419841002	Marionette	INFO	Listening on port 60481
+1634419841172	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T4FMN39, line 345: unreachable code after return statement
+1634419930250	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1634420612096	Marionette	INFO	Stopped listening on port 60481
+console.error: PushServiceWebSocket: 
+  _beginWSSetup: Not in shutdown state! Current state
+  2
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: https://script.hotjar.com/modules.a781ddf321f3456bdb6f.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657935898046	geckodriver	INFO	Listening on 127.0.0.1:51600
+1657935901106	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilec78fFA"
+*** You are running in headless mode.
+1657935901623	Marionette	INFO	Marionette enabled
+1657935901628	Marionette	INFO	Listening on port 51608
+1657935901733	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilec78fFA\\search.json.mozlz4", (void 0)))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1657936682593	geckodriver	INFO	Listening on 127.0.0.1:49822
+1657936685690	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilePcj5ff"
+*** You are running in headless mode.
+1657936686327	Marionette	INFO	Marionette enabled
+1657936686331	Marionette	INFO	Listening on port 49832
+1657936687400	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilePcj5ff\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:49928
+1657936756946	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileLktPEG"
+*** You are running in headless mode.
+1657936757525	Marionette	INFO	Marionette enabled
+1657936757530	Marionette	INFO	Listening on port 49941
+1657936758376	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileLktPEG\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:53165
+1657936818311	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileEVEsRZ"
+*** You are running in headless mode.
+1657936818750	Marionette	INFO	Marionette enabled
+1657936818755	Marionette	INFO	Listening on port 53175
+1657936818965	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileEVEsRZ\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilerYcvdn"
+*** You are running in headless mode.
+1657936884851	Marionette	INFO	Marionette enabled
+1657936884855	Marionette	INFO	Listening on port 61057
+1657936885086	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilerYcvdn\\search.json.mozlz4", (void 0)))
+1657937074829	Marionette	INFO	Stopped listening on port 61057
+1657937217604	geckodriver	INFO	Listening on 127.0.0.1:61334
+1657937220649	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileYdnkaU"
+*** You are running in headless mode.
+1657937221266	Marionette	INFO	Marionette enabled
+1657937221272	Marionette	INFO	Listening on port 61342
+1657937234162	geckodriver	INFO	Listening on 127.0.0.1:61349
+1657937237225	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofile8EgOXs"
+*** You are running in headless mode.
+1657937237534	Marionette	INFO	Marionette enabled
+1657937237537	Marionette	INFO	Listening on port 61357
+1657937237784	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofile8EgOXs\\search.json.mozlz4", (void 0)))
+1657937241265	Marionette	INFO	Stopped listening on port 61357
+1657937459009	geckodriver	INFO	Listening on 127.0.0.1:61461
+1657937462072	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileZQtduH"
+*** You are running in headless mode.
+1657937462398	Marionette	INFO	Marionette enabled
+1657937462402	Marionette	INFO	Listening on port 61469
+1657937462669	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileZQtduH\\search.json.mozlz4", (void 0)))
+1657937822085	geckodriver	INFO	Listening on 127.0.0.1:61697
+1657937825126	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofile3AZZM0"
+*** You are running in headless mode.
+1657937825442	Marionette	INFO	Marionette enabled
+1657937825446	Marionette	INFO	Listening on port 61705
+1657937825714	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofile3AZZM0\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileRaMt5m"
+*** You are running in headless mode.
+1657937908396	Marionette	INFO	Marionette enabled
+1657937908400	Marionette	INFO	Listening on port 61772
+1657937908628	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileRaMt5m\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Exiting due to channel error.
+"C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilePeP1sZ"
+*** You are running in headless mode.
+1657937935780	Marionette	INFO	Marionette enabled
+1657937935784	Marionette	INFO	Listening on port 61838
+1657937936017	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilePeP1sZ\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1657939411347	geckodriver	INFO	Listening on 127.0.0.1:64648
+1657939414408	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilezAh6dU"
+*** You are running in headless mode.
+1657939414760	Marionette	INFO	Marionette enabled
+1657939414764	Marionette	INFO	Listening on port 64656
+1657939414988	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilezAh6dU\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:61129
+1657939658598	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilepuVkz2"
+*** You are running in headless mode.
+1657939658942	Marionette	INFO	Marionette enabled
+1657939658946	Marionette	INFO	Listening on port 61137
+1657939659219	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilepuVkz2\\search.json.mozlz4", (void 0)))
+1657939664209	geckodriver	INFO	Listening on 127.0.0.1:61203
+1657939667245	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileWEaHtJ"
+*** You are running in headless mode.
+1657939667599	Marionette	INFO	Marionette enabled
+1657939667603	Marionette	INFO	Listening on port 61212
+1657939667840	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileWEaHtJ\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:61353
+1657939753363	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileguqCMa"
+*** You are running in headless mode.
+1657939753735	Marionette	INFO	Marionette enabled
+1657939753739	Marionette	INFO	Listening on port 61383
+1657939753996	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileguqCMa\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Exiting due to channel error.
+"C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofiletg16zE"
+*** You are running in headless mode.
+1657939897480	Marionette	INFO	Marionette enabled
+1657939897484	Marionette	INFO	Listening on port 61654
+1657939897706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofiletg16zE\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:61804
+1657939985146	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileOPloq6"
+*** You are running in headless mode.
+1657939985487	Marionette	INFO	Marionette enabled
+1657939985491	Marionette	INFO	Listening on port 61812
+1657939985729	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileOPloq6\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:62014
+1657940376818	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofile9OMHjF"
+*** You are running in headless mode.
+1657940377166	Marionette	INFO	Marionette enabled
+1657940377171	Marionette	INFO	Listening on port 62024
+1657940377425	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofile9OMHjF\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilecoalpo"
+*** You are running in headless mode.
+1657940524475	Marionette	INFO	Marionette enabled
+1657940524479	Marionette	INFO	Listening on port 62127
+1657940524745	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilecoalpo\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:62200
+1657940543068	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilepbbFzV"
+*** You are running in headless mode.
+1657940543396	Marionette	INFO	Marionette enabled
+1657940543401	Marionette	INFO	Listening on port 62216
+1657940543636	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilepbbFzV\\search.json.mozlz4", (void 0)))
+1657940547102	Marionette	INFO	Stopped listening on port 62216
+1657940720120	geckodriver	INFO	Listening on 127.0.0.1:62343
+1657940723195	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileUm8jJt"
+*** You are running in headless mode.
+1657940723548	Marionette	INFO	Marionette enabled
+1657940723552	Marionette	INFO	Listening on port 62351
+1657940723780	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileUm8jJt\\search.json.mozlz4", (void 0)))
+1657940726904	Marionette	INFO	Stopped listening on port 62351
+1657940992662	geckodriver	INFO	Listening on 127.0.0.1:62439
+1657940995711	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilexodiCC"
+*** You are running in headless mode.
+1657940996105	Marionette	INFO	Marionette enabled
+1657940996109	Marionette	INFO	Listening on port 62447
+1657940996335	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilexodiCC\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Exiting due to channel error.
+"C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileDza3ZS"
+*** You are running in headless mode.
+1657941156975	Marionette	INFO	Marionette enabled
+1657941156980	Marionette	INFO	Listening on port 62635
+1657941157198	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileDza3ZS\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Exiting due to channel error.
+"C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilehdPSsr"
+*** You are running in headless mode.
+1657941325098	Marionette	INFO	Marionette enabled
+1657941325103	Marionette	INFO	Listening on port 62713
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilehdPSsr\\search.json.mozlz4", (void 0)))
+1657941326171	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileh825Il"
+*** You are running in headless mode.
+1657941350176	Marionette	INFO	Marionette enabled
+1657941350180	Marionette	INFO	Listening on port 62784
+1657941350435	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileh825Il\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+efox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileNMw4Fe"
+*** You are running in headless mode.
+1657941403833	Marionette	INFO	Marionette enabled
+1657941403837	Marionette	INFO	Listening on port 62859
+1657941404069	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileNMw4Fe\\search.json.mozlz4", (void 0)))
+1657941468417	geckodriver	INFO	Listening on 127.0.0.1:62953
+1657941471464	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileupztOS"
+*** You are running in headless mode.
+1657941471837	Marionette	INFO	Marionette enabled
+1657941471841	Marionette	INFO	Listening on port 62961
+1657941472077	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileupztOS\\search.json.mozlz4", (void 0)))
+1657941552003	geckodriver	INFO	Listening on 127.0.0.1:63032
+1657941555041	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileqfG8PN"
+*** You are running in headless mode.
+1657941555401	Marionette	INFO	Marionette enabled
+1657941555405	Marionette	INFO	Listening on port 63040
+1657941555652	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileqfG8PN\\search.json.mozlz4", (void 0)))
+1657941588315	geckodriver	INFO	Listening on 127.0.0.1:63102
+1657941591351	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileaKr23T"
+*** You are running in headless mode.
+1657941591679	Marionette	INFO	Marionette enabled
+1657941591683	Marionette	INFO	Listening on port 63110
+1657941591912	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileaKr23T\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:63166
+1657941621614	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileVjIUYk"
+*** You are running in headless mode.
+1657941621956	Marionette	INFO	Marionette enabled
+1657941621960	Marionette	INFO	Listening on port 63174
+1657941622188	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileVjIUYk\\search.json.mozlz4", (void 0)))
+1657941625502	Marionette	INFO	Stopped listening on port 63174
+1657941822343	geckodriver	INFO	Listening on 127.0.0.1:57542
+1657941825410	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilesOHMzW"
+*** You are running in headless mode.
+1657941825749	Marionette	INFO	Marionette enabled
+1657941825753	Marionette	INFO	Listening on port 57550
+1657941825977	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilesOHMzW\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+efox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileukIYZK"
+*** You are running in headless mode.
+1657942007828	Marionette	INFO	Marionette enabled
+1657942007832	Marionette	INFO	Listening on port 57637
+1657942008104	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofileukIYZK\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+efox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilekJeGa4"
+*** You are running in headless mode.
+1657942073774	Marionette	INFO	Marionette enabled
+1657942073778	Marionette	INFO	Listening on port 57705
+1657942074006	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilekJeGa4\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Exiting due to channel error.
+"C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilekfE9jg"
+*** You are running in headless mode.
+1657942173374	Marionette	INFO	Marionette enabled
+1657942173379	Marionette	INFO	Listening on port 57783
+1657942173604	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilekfE9jg\\search.json.mozlz4", (void 0)))
+1657942176851	Marionette	INFO	Stopped listening on port 57783
+1657942199280	geckodriver	INFO	Listening on 127.0.0.1:57855
+1657942202316	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilexNBh03"
+*** You are running in headless mode.
+1657942202641	Marionette	INFO	Marionette enabled
+1657942202645	Marionette	INFO	Listening on port 57863
+1657942202887	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofilexNBh03\\search.json.mozlz4", (void 0)))
+1657942384969	Marionette	INFO	Stopped listening on port 57863
